@@ -1,0 +1,621 @@
+[
+  {
+    "series": "All the Skills #1",
+    "labels": "ongoing litrpg fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1669162155i/63645843.jpg",
+    "rating": 4.64,
+    "name": "All the Skills",
+    "author": "Honour Rae",
+    "goodreads_link": "https://www.goodreads.com/book/show/63645843-all-the-skills"
+  },
+  {
+    "series": "Beware of Chicken",
+    "labels": "progression humour ongoing overpowered fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650996799i/60888209.jpg",
+    "rating": 4.63,
+    "name": "Beware of Chicken",
+    "author": "CasualFarmer",
+    "goodreads_link": "https://www.goodreads.com/book/show/60888209-beware-of-chicken"
+  },
+  {
+    "series": "Warformed: Stormweaver",
+    "labels": "gamelit ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609069628i/55559974.jpg",
+    "rating": 4.61,
+    "name": "Iron Prince",
+    "author": "Bryce O'Connor, Luke Chmilenko",
+    "goodreads_link": "https://www.goodreads.com/book/show/55559974-iron-prince"
+  },
+  {
+    "series": "Azarinth Healer #1",
+    "labels": "isekai litrpg ongoing female-mc fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667961181i/63260494.jpg",
+    "rating": 4.58,
+    "name": "Azarinth Healer: Book One",
+    "author": "Rhaegar",
+    "goodreads_link": "https://www.goodreads.com/book/show/63260494-azarinth-healer"
+  },
+  {
+    "series": "Dungeon Crawler Carl",
+    "labels": "litrpg ongoing humour system fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620320337i/57964597.jpg",
+    "rating": 4.56,
+    "name": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "goodreads_link": "https://www.goodreads.com/book/show/57964597-dungeon-crawler-carl"
+  },
+  {
+    "series": "Portal to Nova Roma",
+    "labels": "isekai litrpg non-human-mc overpowered rogue",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643764782i/60288155.jpg",
+    "rating": 4.54,
+    "name": "Portal to Nova Roma",
+    "author": "J.R. Mathews",
+    "goodreads_link": "https://www.goodreads.com/book/show/60288155-portal-to-nova-roma"
+  },
+  {
+    "series": "Tarot",
+    "labels": "vr litrpg completed mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571424644i/48501084.jpg",
+    "rating": 4.52,
+    "name": "Ember",
+    "author": "Travis Bagwell",
+    "goodreads_link": "https://www.goodreads.com/book/show/48501084-ember"
+  },
+  {
+    "series": "Battle Mage Farmer",
+    "labels": "gamelit ongoing isekai overpowered mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646091646i/60526795.jpg",
+    "rating": 4.51,
+    "name": "Domestication",
+    "author": "Seth Ring",
+    "goodreads_link": "https://www.goodreads.com/book/show/60526795-domestication"
+  },
+  {
+    "series": "Victor of Tucson",
+    "labels": "isekai litrpg ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671302766i/69621499.jpg",
+    "rating": 4.48,
+    "name": "Pit Fighter",
+    "author": "Plum Parrot",
+    "goodreads_link": "https://www.goodreads.com/book/show/69621499-pit-fighter"
+  },
+  {
+    "series": "System Universe",
+    "labels": "system litrpg ongoing overpowered fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658172758i/61588227.jpg",
+    "rating": 4.47,
+    "name": "System Change",
+    "author": "SunriseCV",
+    "goodreads_link": "https://www.goodreads.com/book/show/61588227-system-change"
+  },
+  {
+    "labels": "non-human-mc female-mc isekai completed gamelit mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589518349i/53415675.jpg",
+    "rating": 4.46,
+    "name": "Queen in the Mud",
+    "author": "Maari.",
+    "goodreads_link": "https://www.goodreads.com/book/show/53415675-queen-in-the-mud?from_search=true&from_srp=true&qid=I9oeFAirAq&rank=1"
+  },
+  {
+    "series": "The Bad Guys #1",
+    "labels": "litrpg isekai ongoing humour mage rogue",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569673909l/51938719.jpg",
+    "rating": 4.45,
+    "name": "Scamps & Scoundrels",
+    "author": "Eric Ugland",
+    "goodreads_link": "https://www.goodreads.com/book/show/51938719-scamps-scoundrels"
+  },
+  {
+    "series": "Fluff",
+    "labels": "ongoing humour gamelit female-mc noncombat",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658378414i/61637090.jpg",
+    "rating": 4.45,
+    "name": "Fluff: A Wholesome LitRPG",
+    "author": "Ravens Dagger",
+    "goodreads_link": "https://www.goodreads.com/book/show/61637090-fluff"
+  },
+  {
+    "series": "He Who Fights with Monsters",
+    "labels": "litrpg ongoing isekai humour rogue mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614114118i/57189884.jpg",
+    "rating": 4.44,
+    "name": "He Who Fights with Monsters, Book 1",
+    "author": "Shirtaloon",
+    "goodreads_link": "https://www.goodreads.com/book/show/57189884-he-who-fights-with-monsters"
+  },
+  {
+    "series": "Legends of Arenia",
+    "labels": "ongoing isekai litprg fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1622362898i/58199715.jpg",
+    "rating": 4.43,
+    "name": "Arrival",
+    "author": "P.A. Parsons",
+    "goodreads_link": "https://www.goodreads.com/book/show/58199715-arrival"
+  },
+  {
+    "series": "Jake's Magical Market",
+    "labels": "system gamelit ongoing mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633627443i/59236334.jpg",
+    "rating": 4.43,
+    "name": "Jake's Magical Market",
+    "author": "J.R. Mathews",
+    "goodreads_link": "https://www.goodreads.com/book/show/59236334-jake-s-magical-market"
+  },
+  {
+    "series": "Unorthodox Farming",
+    "labels": "isekai ongoing humour litrpg noncombat",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620525458i/57968407.jpg",
+    "rating": 4.43,
+    "name": "Oh Great! I was Reincarnated as a Farmer",
+    "author": "Benjamin Kerei",
+    "goodreads_link": "https://www.goodreads.com/book/show/57968407-oh-great-i-was-reincarnated-as-a-farmer"
+  },
+  {
+    "series": "The Legend of Randidly Ghosthound",
+    "labels": "ongoing litrpg system overpowered mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632799061i/59089569.jpg",
+    "rating": 4.42,
+    "name": "The Legend of Randidly Ghosthound",
+    "author": "Noret Flood, puddles4263",
+    "goodreads_link": "https://www.goodreads.com/book/show/59089569-the-legend-of-randidly-ghosthound"
+  },
+  {
+    "series": "The Ripple System",
+    "labels": "litrpg vr humour ongoing mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610785419i/56683041.jpg",
+    "rating": 4.41,
+    "name": "Shadeslinger",
+    "author": "Kyle Kirrin",
+    "goodreads_link": "https://www.goodreads.com/book/show/56683041-shadeslinger"
+  },
+  {
+    "series": "Defiance of the Fall",
+    "labels": "litrpg system ongoing fighter overpowered",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619486020i/57866482.jpg",
+    "rating": 4.41,
+    "name": "Defiance of the Fall",
+    "author": "TheFirstDefier, JF Brink",
+    "goodreads_link": "https://www.goodreads.com/book/show/57866482-defiance-of-the-fall"
+  },
+  {
+    "series": "A Dream of Wings & Flame #1",
+    "labels": "gamelit ongoing non-human-mc mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660857215i/62015939.jpg",
+    "rating": 4.39,
+    "name": "A Dream of Wings & Flame",
+    "author": "Cale Plamann",
+    "goodreads_link": "https://www.goodreads.com/book/show/62015939-a-dream-of-wings-flame"
+  },
+  {
+    "series": "Solo Leveling Novel",
+    "labels": "completed litprg fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609238529i/54896925.jpg",
+    "rating": 4.39,
+    "name": "Solo Leveling, Vol. 1",
+    "author": "Chugong",
+    "goodreads_link": "https://www.goodreads.com/book/show/54896925-solo-leveling-vol-1"
+  },
+  {
+    "series": "Beastborne Chronicles",
+    "labels": "isekai litrpg ongoing mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593386594i/54310257.jpg",
+    "rating": 4.38,
+    "name": "Mark of the Founder",
+    "author": "James T. Callum",
+    "goodreads_link": "https://www.goodreads.com/book/show/54310257-mark-of-the-founder"
+  },
+  {
+    "series": "Full Murderhobo",
+    "labels": "ongoing humour litrpg overpowered fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598478055i/55134991.jpg",
+    "rating": 4.38,
+    "name": "Something",
+    "author": "Dakota Krout",
+    "goodreads_link": "https://www.goodreads.com/book/show/55134991-something?from_search=true&from_srp=true&qid=Q4NqyhWkLj&rank=1"
+  },
+  {
+    "series": "Tower of Somnus",
+    "labels": "litprg ongoing female-mc fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657091322i/61400806.jpg",
+    "rating": 4.37,
+    "name": "Foundations",
+    "author": "Cale Plamann",
+    "goodreads_link": "https://www.goodreads.com/book/show/61400806-foundations"
+  },
+  {
+    "series": "The Beginning After The End #1",
+    "labels": "isekai litrpg ongoing mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576541059i/49340483.jpg",
+    "rating": 4.36,
+    "name": "Early Years",
+    "author": "TurtleMe",
+    "goodreads_link": "https://www.goodreads.com/book/show/49340483-early-years"
+  },
+  {
+    "series": "Threadbare",
+    "labels": "completed non-human-mc litrpg mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654569997i/37654736.jpg",
+    "rating": 4.35,
+    "name": "Stuff and Nonsense",
+    "author": "Andrew Seiple, Amelia Parris, Beth Lyons",
+    "goodreads_link": "https://www.goodreads.com/book/show/37654736-stuff-and-nonsense?from_search=true&from_srp=true&qid=jXI8PzpW4P&rank=1"
+  },
+  {
+    "series": "Shadow Sun",
+    "labels": "ongoing system litrpg fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551728924i/44244559.jpg",
+    "rating": 4.35,
+    "name": "Survival",
+    "author": "Dave Willmarth",
+    "goodreads_link": "https://www.goodreads.com/book/show/44244559-survival"
+  },
+  {
+    "series": "The Gam3",
+    "labels": "system litrpg completed vr fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1458931124i/29618814.jpg",
+    "rating": 4.33,
+    "name": "Opening Moves",
+    "author": "Cosimo Yap",
+    "goodreads_link": "https://www.goodreads.com/book/show/29618814-opening-moves"
+  },
+  {
+    "series": "New Era Online",
+    "labels": "litrpg vr isekai completed non-human-mc mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1502183831i/35962125.jpg",
+    "rating": 4.33,
+    "name": "Life Reset",
+    "author": "Shemer Kuznits, Georgi Markov, Samuel K Bragdon",
+    "goodreads_link": "https://www.goodreads.com/book/show/35962125-life-reset"
+  },
+  {
+    "series": "Ten Realms",
+    "labels": "system litrpg ongoing isekai fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530687432i/40715131.jpg",
+    "rating": 4.33,
+    "name": "The Two Week Curse",
+    "author": "Michael Chatfield",
+    "goodreads_link": "https://www.goodreads.com/book/show/40715131-the-two-week-curse"
+  },
+  {
+    "series": "Proxima Legends",
+    "labels": "litrpg vr completed humour mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673898972i/78728163.jpg",
+    "rating": 4.33,
+    "name": "Proxima Legends Vol 1",
+    "author": "Harmon Cooper",
+    "goodreads_link": "https://www.goodreads.com/book/show/78728163-proxima-legends-vol-1"
+  },
+  {
+    "series": "Dragon Riders of Lon",
+    "labels": "litrpg ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661024493i/62033719.jpg",
+    "rating": 4.32,
+    "name": "Climbing the Dragon's Tower",
+    "author": "Han Yang",
+    "goodreads_link": "https://www.goodreads.com/book/show/62033719-climbing-the-dragon-s-tower"
+  },
+  {
+    "series": "The Good Guys #1",
+    "labels": "litrpg isekai ongoing humour fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538183558i/42092378.jpg",
+    "rating": 4.32,
+    "name": "One More Last Time",
+    "author": "Eric Ugland",
+    "goodreads_link": "https://www.goodreads.com/book/show/42092378-one-more-last-time"
+  },
+  {
+    "series": "The Completionist Chronicles",
+    "labels": "humour ongoing isekai system mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663541195i/62632697.jpg",
+    "rating": 4.32,
+    "name": "Ritualist",
+    "author": "Dakota Krout",
+    "goodreads_link": "https://www.goodreads.com/book/show/62632697-ritualist"
+  },
+  {
+    "series": "Salvos",
+    "labels": "ongoing litrpg female-mc non-human-mc fighter mage overpowered",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610436243i/56644452.jpg",
+    "rating": 4.31,
+    "name": "Curious Beginnings",
+    "author": "V.A. Lewis",
+    "goodreads_link": "https://www.goodreads.com/book/show/56644452-curious-beginnings"
+  },
+  {
+    "series": "The Wandering Inn",
+    "labels": "ongoing isekai litrpg female-mc noncombat",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659823724i/41033158.jpg",
+    "rating": 4.31,
+    "name": "The Wandering Inn: Book 1",
+    "author": "Pirateaba",
+    "goodreads_link": "https://www.goodreads.com/book/show/41033158-the-wandering-inn"
+  },
+  {
+    "series": "Necrotic Apocalypse",
+    "labels": "ongoing humour system litrpg mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635786993i/59513691.jpg",
+    "rating": 4.31,
+    "name": "Ravenous: A Zombie Apocalypse LitRPG",
+    "author": "David Petrie",
+    "goodreads_link": "https://www.goodreads.com/book/show/59513691-ravenous"
+  },
+  {
+    "series": "The Primal Hunter",
+    "labels": "litrpg ongoing system overpowered rogue mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654297527i/61220616.jpg",
+    "rating": 4.31,
+    "name": "The Primal Hunter, Book One",
+    "author": "Zogarth",
+    "goodreads_link": "https://www.goodreads.com/book/show/57189884-he-who-fights-with-monsters"
+  },
+  {
+    "series": "Saga Online",
+    "labels": "vr isekai litrpg ongoing mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1548677535i/43726809.jpg",
+    "rating": 4.3,
+    "name": "Occultist",
+    "author": "Oliver Mayes",
+    "goodreads_link": "https://www.goodreads.com/book/show/43726809-occultist"
+  },
+  {
+    "series": "This Trilogy is Broken",
+    "labels": "humour litrpg completed female-mc mage fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609804807i/56557030.jpg",
+    "rating": 4.28,
+    "name": "This Quest is Broken!",
+    "author": "J.P. Valentine",
+    "goodreads_link": "https://www.goodreads.com/book/show/56557030-this-quest-is-broken"
+  },
+  {
+    "series": "Divine Apostasy",
+    "labels": "ongoing humour litrpg mage fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564223577l/52284628.jpg",
+    "rating": 4.28,
+    "name": "Shade's First Rule",
+    "author": "A.F. Kay",
+    "goodreads_link": "https://www.goodreads.com/book/show/52284628-shade-s-first-rule"
+  },
+  {
+    "series": "Threads of Fate",
+    "labels": "gamelit ongoing overpowered mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1613516557i/57102038.jpg",
+    "rating": 4.27,
+    "name": "Reincarnation",
+    "author": "Michael Head",
+    "goodreads_link": "https://www.goodreads.com/book/show/57102038-reincarnation"
+  },
+  {
+    "series": "Blessed Time",
+    "labels": "litrpg completed mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629205376i/58793351.jpg",
+    "rating": 4.26,
+    "name": "Blessed Time",
+    "author": "Cale Plamann",
+    "goodreads_link": "https://www.goodreads.com/book/show/58793351-blessed-time"
+  },
+  {
+    "series": "Worth the Candle",
+    "labels": "isekai litrpg completed mage rogue",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1645292815i/60451926.jpg",
+    "rating": 4.25,
+    "name": "Through Adversity",
+    "author": "Alexander Wales",
+    "goodreads_link": "https://www.goodreads.com/book/show/60451926-through-adversity"
+  },
+  {
+    "series": "Master Hunter K",
+    "labels": "litrpg completed system overpowered fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1625234729i/58473013.jpg",
+    "rating": 4.25,
+    "name": "Initialization",
+    "author": "From Hell, Minsoo Kang",
+    "goodreads_link": "https://www.goodreads.com/book/show/58473013-initialization"
+  },
+  {
+    "series": "Towers of Heaven",
+    "labels": "system litrpg ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619576685i/57880084.jpg",
+    "rating": 4.24,
+    "name": "Towers of Heaven",
+    "author": "Cameron Milan",
+    "goodreads_link": "https://www.goodreads.com/book/show/57880084-towers-of-heaven"
+  },
+  {
+    "series": "Sentenced to Troll",
+    "labels": "vr litrpg non-human-mc ongoing isekai fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633135638i/59128157.jpg",
+    "rating": 4.23,
+    "name": "Sentenced to Troll",
+    "author": "S.L. Rowland",
+    "goodreads_link": "https://www.goodreads.com/book/show/59128157-sentenced-to-troll"
+  },
+  {
+    "series": "Amelia #1",
+    "labels": "isekai system litrpg ongoing female-mc overpowered fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679956501i/123520444.jpg",
+    "rating": 4.22,
+    "name": "Amelia The Level Zero Hero Book 1",
+    "author": "V.A. Lewis",
+    "goodreads_link": "https://www.goodreads.com/book/show/123520444-amelia-the-level-zero-hero-book-1"
+  },
+  {
+    "series": "Angromoria",
+    "labels": "completed litrpg vr noncombat",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1522484721i/39689323.jpg",
+    "rating": 4.21,
+    "name": "Alpha Test",
+    "author": "David Pendleton",
+    "goodreads_link": "https://www.goodreads.com/book/show/39689323-alpha-test"
+  },
+  {
+    "series": "Morcster Chef",
+    "labels": "gamelit non-human-mc litrpg ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638919471i/59770974.jpg",
+    "rating": 4.21,
+    "name": "Cleaver's Edge",
+    "author": "Actus",
+    "goodreads_link": "https://www.goodreads.com/book/show/59770974-cleaver-s-edge"
+  },
+  {
+    "series": "Ascend Online",
+    "labels": "completed vr litrpg mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1496116466i/35192342.jpg",
+    "rating": 4.21,
+    "name": "Ascend Online",
+    "author": "Luke Chmilenko",
+    "goodreads_link": "https://www.goodreads.com/book/show/35192342-ascend-online"
+  },
+  {
+    "series": "Chaos Seeds",
+    "labels": "ongoing isekai litrpg fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486921647i/34234639.jpg",
+    "rating": 4.19,
+    "name": "The Land: Founding",
+    "author": "Aleron Kong",
+    "goodreads_link": "https://www.goodreads.com/book/show/34234639-the-land"
+  },
+  {
+    "series": "Cradle",
+    "labels": "progression ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654571019i/30558257.jpg",
+    "rating": 4.17,
+    "name": "Unsouled",
+    "author": "Will Wight",
+    "goodreads_link": "https://www.goodreads.com/book/show/30558257-unsouled"
+  },
+  {
+    "series": "Dungeon Travels",
+    "labels": "isekai non-human-mc gamelit noncombat",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549665420i/43895146.jpg",
+    "rating": 4.16,
+    "name": "The Dungeon Traveler",
+    "author": "Alston Sleet",
+    "goodreads_link": "https://www.goodreads.com/book/show/43895146-the-dungeon-traveler"
+  },
+  {
+    "series": "Irrelevant Jack",
+    "labels": "isekai litrpg system ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542890623i/42928898.jpg",
+    "rating": 4.16,
+    "name": "Irrelevant Jack",
+    "author": "Prax Venter",
+    "goodreads_link": "https://www.goodreads.com/book/show/42928898-irrelevant-jack"
+  },
+  {
+    "series": "A Snake's Life",
+    "labels": "non-human-mc ongoing isekai litrpg fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1583703351i/52220756.jpg",
+    "rating": 4.15,
+    "name": "A Snake's Life",
+    "author": "Kenneth Arant",
+    "goodreads_link": "https://www.goodreads.com/book/show/52220756-a-snake-s-life"
+  },
+  {
+    "series": "Noobtown",
+    "labels": "humour system isekai litrpg ongoing fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658223182i/44420185.jpg",
+    "rating": 4.15,
+    "name": "The Mayor of Noobtown",
+    "author": "Ryan Rimmel",
+    "goodreads_link": "https://www.goodreads.com/book/show/44420185-the-mayor-of-noobtown"
+  },
+  {
+    "series": "Ben's Damn Adventure",
+    "labels": "ongoing humour system litrpg isekai fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666858030i/63110570.jpg",
+    "rating": 4.15,
+    "name": "The Prince Has No Pants",
+    "author": "Matthew Howry",
+    "goodreads_link": "https://www.goodreads.com/book/show/63110570-ben-s-damn-adventure"
+  },
+  {
+    "series": "The System Apocalypse",
+    "labels": "completed litrpg fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1499131662i/35596177.jpg",
+    "rating": 4.14,
+    "name": "Life in the North",
+    "author": "Tao Wong",
+    "goodreads_link": "https://www.goodreads.com/book/show/35596177-life-in-the-north"
+  },
+  {
+    "series": "Cinnamon Bun",
+    "labels": "humour isekai female-mc litrpg mage fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593396004i/54311585.jpg",
+    "rating": 4.12,
+    "name": "Cinnamon Bun",
+    "author": "Ravens Dagger",
+    "goodreads_link": "https://www.goodreads.com/book/show/54311585-cinnamon-bun"
+  },
+  {
+    "series": "Everybody Loves Large Chests",
+    "labels": "non-human-mc ongoing humour litrpg fighter mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1508855442i/36469357.jpg",
+    "rating": 4.11,
+    "name": "Morningwood",
+    "author": "Neven Iliev",
+    "goodreads_link": "https://www.goodreads.com/book/show/36469357-morningwood"
+  },
+  {
+    "series": "Year of the Sword",
+    "labels": "gamelit progression ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641425509i/60042260.jpg",
+    "rating": 4.09,
+    "name": "Lord January",
+    "author": "Dakota Krout",
+    "goodreads_link": "https://www.goodreads.com/book/show/60042260-lord-january"
+  },
+  {
+    "series": "Chronicles of Sir Crabby",
+    "labels": "humour ongoing non-human-mc litprg fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661063817i/62037416.jpg",
+    "rating": 4.05,
+    "name": "Deepwater Dungeon",
+    "author": "Ryan Rimmel, Boe Hagen",
+    "goodreads_link": "https://www.goodreads.com/book/show/62037416-deepwater-dungeon"
+  },
+  {
+    "labels": "humour female-mc litrpg completed noncombat",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588252360i/53300479.jpg",
+    "rating": 4.02,
+    "name": "How to Defeat a Demon King in Ten Easy Steps",
+    "author": "Andrew Rowe, Suzy Jackson, Steve West",
+    "goodreads_link": "https://www.goodreads.com/book/show/53300479-how-to-defeat-a-demon-king-in-ten-easy-steps"
+  },
+  {
+    "series": "Tokens and Towers",
+    "labels": "humour completed litrpg",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1648124308i/60682858.jpg",
+    "rating": 3.95,
+    "name": "Tokens and Towers, Vol. 1",
+    "author": "Harmon Cooper",
+    "goodreads_link": "https://www.goodreads.com/book/show/60682858-tokens-and-towers-vol-1"
+  },
+  {
+    "series": "Paragon",
+    "labels": "ongoing litrpg system mage",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646466773i/60134321.jpg",
+    "rating": 3.89,
+    "name": "Paragon of Blood",
+    "author": "Luke Chmilenko, Alex Knight",
+    "goodreads_link": "https://www.goodreads.com/book/show/60134321-paragon-of-blood"
+  },
+  {
+    "series": "Space Seasons",
+    "labels": "isekai litrpg ongoing fighter",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586313389i/53039345.jpg",
+    "rating": 3.71,
+    "name": "Winter Harvest",
+    "author": "Dawn Chapman",
+    "goodreads_link": "https://www.goodreads.com/book/show/53039345-winter-harvest"
+  },
+  {
+    "series": "The Feedback Loop",
+    "labels": "litrpg vr completed humour fighter rogue",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495361523i/35181930.jpg",
+    "rating": 3.67,
+    "name": "The Feedback Loop",
+    "author": "Harmon Cooper",
+    "goodreads_link": "https://www.goodreads.com/book/show/35181930-the-feedback-loop"
+  }
+]
