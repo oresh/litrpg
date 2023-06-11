@@ -8,12 +8,13 @@ const Book = ({
   author,
   goodreads_link,
   rating,
+  visible
 }) => {
   return (
     <div
       className="book"
       data-name={name}
-      data-visible={'true'}
+      data-visible={visible.toString()}
       data-labels={labels}
       data-rating={rating}
     >
