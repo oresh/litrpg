@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
 
-export const SortStyles = createGlobalStyle`
+export const FormatStyles = createGlobalStyle`
   .collection-sort-wrapper {
     font-family: "Lato", sans-serif;
     padding: 0 15px 0 0 ;

@@ -1,5 +1,6 @@
 import Books from 'app/components/Books/Books';
 import Filters from 'app/components/Filters/Filters';
+import Format from 'app/components/Format/Format';
 import Sort from 'app/components/Sort/Sort';
 import * as React from 'react';
 import bookList from '../../../store/books.json';
@@ -34,6 +35,14 @@ export enum SortList {
   id = 'By First Release Date',
 }
 
+export enum FormatsList {
+  kindle = 'Kindle',
+  unlimited = 'Kindle Unlimited',
+  audible = 'Audible',
+  paper = 'Paperback',
+  hardcover = 'Hardcover',
+}
+
 const containsArray = function (arr: Array<String>, match: Array<String>) {
   if (match.length == 0) return true;
   for (var i = 0; i < match.length; i++) {
@@ -59,6 +68,7 @@ export function HomePage() {
   const [filters, setFilters] = React.useState<any>([]);
   const [sorting, setSort] = React.useState<any>([]);
   const [favorites, setFavorites] = React.useState<any>([]);
+  const [formats, setFormats] = React.useState<any>([]);
 
   React.useEffect(() => {
     setBooks(
@@ -80,12 +90,27 @@ export function HomePage() {
           slug: sorting_name,
         })),
     );
+    setFormats(
+      ls.get('formats') ||
+        Object.keys(FormatsList).map(sorting_name => ({
+          selected: sorting_name == 'kindle',
+          name: FormatsList[sorting_name],
+          slug: sorting_name,
+        })),
+    );
     setFavorites(ls.get('favorites') || []);
     setInitialised(true);
   }, []);
 
   const onFilterClick = (filter, event) => {
     event.preventDefault();
+    if (filter == null) {
+      const resetFilters = filters.map(item => ({ ...item, selected: false }));
+      ls.set('filters', resetFilters);
+      setFilters(resetFilters);
+      return;
+    }
+
     const newFilters = filters.map(item => {
       if (item.name === filter.name) {
         item.selected = !item.selected;
@@ -104,6 +129,16 @@ export function HomePage() {
     });
     ls.set('sorting', newSort);
     setSort(newSort);
+  };
+
+  const onFormatClick = (format, event) => {
+    event.preventDefault();
+    const newFormats = formats.map(item => {
+      item.selected = item.name === format.name;
+      return item;
+    });
+    ls.set('formats', newFormats);
+    setFormats(newFormats);
   };
 
   const onFavoriteClick = (book_id, event) => {
@@ -126,6 +161,7 @@ export function HomePage() {
   React.useEffect(() => {
     if (initialised) {
       const appliedFilters = filters
+        .concat(formats)
         .filter(filter => filter.selected)
         .map(filter => filter.slug);
 
@@ -150,12 +186,13 @@ export function HomePage() {
       });
       setBooks(newBooks);
     }
-  }, [filters, favorites, sorting, initialised]);
+  }, [filters, favorites, sorting, formats, initialised]);
 
   return (
     <div className="collection-wrapper">
       <Filters filters={filters} onFilterClick={onFilterClick} />
       <Sort sorting={sorting} onSortClick={onSortClick} />
+      <Format formats={formats} onFormatClick={onFormatClick} />
       <Books list={books} onFavoriteClick={onFavoriteClick} />
     </div>
   );

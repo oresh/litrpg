@@ -3,9 +3,9 @@ import { SortStyles } from './SortStyles';
 
 const Sort = ({ sorting, onSortClick }) => {
   return (
-    <div className="filters-wrapper">
+    <div className="collection-sort-wrapper">
       <h3>Sorting</h3>
-      <ul className="collection-filters">
+      <ul className="collection-sorting">
         {sorting.map((sort, index) => (
           <li
             key={index}
