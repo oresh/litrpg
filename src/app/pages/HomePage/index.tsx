@@ -20,19 +20,21 @@ export enum FiltersList {
   femalemc = 'Female MC',
   isekai = 'Isekai',
   overpowered = 'Overpowered MC',
+  postapocalypse = 'Postapocalypse',
+  townbuilding = 'Town Building',
   mage = 'Mage',
   fighter = 'Fighter',
   rogue = 'Rogue',
   noncombat = 'Non-combat MC',
   guns = 'Guns',
   solo = 'Solo Adventurer',
-  party = 'Party of Adventurers',
+  party = 'Party',
 }
 
 export enum SortList {
   rating = 'By Rating',
   name = 'By Name',
-  id = 'By First Release Date',
+  id = 'By Release Date',
 }
 
 export enum FormatsList {
@@ -193,6 +195,9 @@ export function HomePage() {
       <Filters filters={filters} onFilterClick={onFilterClick} />
       <Sort sorting={sorting} onSortClick={onSortClick} />
       <Format formats={formats} onFormatClick={onFormatClick} />
+      <p className="promote-favorites">
+        Add a book to favorites to highlight it for the community
+      </p>
       <Books list={books} onFavoriteClick={onFavoriteClick} />
     </div>
   );

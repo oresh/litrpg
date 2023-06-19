@@ -9,6 +9,7 @@ export const SortStyles = createGlobalStyle`
   }
   .collection-sort-wrapper h3 {
     margin-bottom: 7px;
+    margin-top: 10px;
   }
   .collection-sorting {
     display: flex;

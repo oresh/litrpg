@@ -7,6 +7,7 @@ export const FilterStyles = createGlobalStyle`
   }
   .collection-wrapper h3 {
     color: #090580;
+    margin-bottom: 7px;
   }
   .collection-filters {
     display: flex;
@@ -14,6 +15,7 @@ export const FilterStyles = createGlobalStyle`
     gap: 15px;
     list-style: none;
     padding: 0;
+    margin: 10px 0;
   }
   .collection-filter {
     list-style: none;
